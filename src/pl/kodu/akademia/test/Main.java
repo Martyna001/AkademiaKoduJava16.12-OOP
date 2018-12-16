@@ -18,6 +18,10 @@ public class Main {
             public void zareaguj() {
                 System.out.println("reaguj !!");
 
+
+
+
+                
             }
         };
 
